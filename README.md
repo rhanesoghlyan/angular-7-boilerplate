@@ -1,8 +1,6 @@
 # Angular boilerplate
 
-Angular project structure which you help start developing Angular 6 immediately.
-
-## Development server
+Angular project structure which helps you to start developing Angular 6 immediately.
 
 ## Import a Git repository using the command line
 
@@ -11,6 +9,8 @@ git clone https://github.com/rhanesoghlyan/angular-6-boilerplate.git
 ```
 
 Run `npm install` from the root directory
+
+## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
