@@ -1,11 +1,11 @@
 # Angular boilerplate
 
-Angular project structure which helps you to start developing Angular 6 immediately.
+Angular project structure which helps you to start developing Angular 7 immediately.
 
 ## Import a Git repository using the command line
 
 ```shell
-git clone https://github.com/rhanesoghlyan/angular-6-boilerplate.git
+git clone https://github.com/rhanesoghlyan/angular-7-boilerplate.git
 ```
 
 Run `npm install` from the root directory
